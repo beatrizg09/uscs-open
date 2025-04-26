@@ -37,3 +37,5 @@ E não se esqueça:
 No final das contas, a única rivalidade que realmente importa é a sua busca incessante por conhecimento e aperfeiçoamento. Continue aprendendo, evoluindo e se tornando um programador cada vez mais completo.
 
 O futuro da programação está em suas mãos!
+
+Imagine um aplicativo feito para quem ama seus pets e quer deixá-los sempre na moda! O PetLux é a plataforma perfeita para compra, venda e troca de roupas e acessórios para animais de estimação. Com uma interface intuitiva e charmosa, construída utilizando tecnologia de ponta (Java para backend robusto e C# para soluções de desktop e mobile), o app conecta donos de pets apaixonados em todo o país.
